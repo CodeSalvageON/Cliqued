@@ -32,13 +32,16 @@ body {
   background-size: cover;
   background-color: powderblue;
   position: relative;
+  display: none;
 }
 
 #manual-loader {
   top: 0px;
   left: 0px;
   right: 0px;
-  margin: 0;
+  margin: auto;
+  width: 45%;
+  font-size: 6.7vw;
   font-family: WARFONT;
   background-color: #858585ff;
   text-align: center;
