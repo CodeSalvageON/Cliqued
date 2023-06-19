@@ -1,5 +1,6 @@
 const body = document.body;
 const loadingScreen = document.getElementById("loading-screen");
+const singleMult = document.getElementById("single-multie");
 
 function loadBack (backSrc, elem) {
   let newImg = new Image();
