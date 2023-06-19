@@ -1,6 +1,10 @@
 const body = document.body;
 const loadingScreen = document.getElementById("loading-screen");
 const singleMult = document.getElementById("single-multie");
+const starterCliques = document.getElementById("starter-cliques");
+
+// buttons
+const singleButton = document.getElementById("single-button");
 
 function loadBack (backSrc, elem) {
   let newImg = new Image();
