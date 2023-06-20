@@ -1,9 +1,5 @@
 <h1>Credits</h1>
 <hr/>
-<h2>Image Credits</h2>
-<ul>
-  <li></li>
-</ul>
 <h2>Font Credits</h2>
 <ul>
   <li>
