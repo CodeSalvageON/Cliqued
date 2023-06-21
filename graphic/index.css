@@ -47,6 +47,10 @@ p {
   cursor: pointer;
 }
 
+.clique-select:hover {
+  background-color: #6a6868;
+}
+
 .flex-top {
   display: flex;
   font-size: 2.3vw;
@@ -59,15 +63,16 @@ p {
 .clique-description {
   font-family: monospace;
   text-align: left;
+  font-size: 1.1vw;
 }
 
 .zoom {
-  margin: 0 auto;
+  margin: 0;
   transition: transform .5s; 
 }
 
 .zoom:hover {
-  cursor: default;
+  cursor: pointer;
   transform: scale(1.05);
 }
 
